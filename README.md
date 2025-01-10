@@ -79,7 +79,7 @@ The **Peshawari Shoes Website** is a user-friendly platform designed to showcase
 ## Deployment
 The current version is suitable for static deployment:  
 - **GitHub Pages**: For hosting and public accessibility.  
-- **Netlify**: Automated updates and easy deployment.  
+- **Link**: https://amiraziz1221.github.io/WP_Project_F24-DS-/  
 
 ---
 
